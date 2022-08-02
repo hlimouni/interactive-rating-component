@@ -1,9 +1,6 @@
 import { createContext, useState } from 'react';
-import './App.css';
 import Rating from './components/Rating';
-// import RatingScale from './components/RatingScale';
 import ThankYou from './components/ThankYou';
-// import StarLogo from './icons/icon-star.svg'
 
 export const AppContext = createContext(null);
 
@@ -19,4 +16,3 @@ export default function App() {
   );
 }
 
-// export default App;
