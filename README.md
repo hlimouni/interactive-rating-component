@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screencapture1.png)
 ![](./screencapture2.png)
+![](./screencapture1.png)
 
 
 ### Links
