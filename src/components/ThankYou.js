@@ -7,7 +7,7 @@ function ThankYou() {
   return (
     <div className='thank-you-card'>
         <ThanksIcon/>
-        <div>You selected {ratingValue} out of 5</div>
+        <div className='selected-rating'>You selected {ratingValue} out of 5</div>
         <h1>Thank you!</h1>
         <p>  We appreciate you taking the time to give a rating. If you ever need more support, 
             don’t hesitate to get in touch!</p>
